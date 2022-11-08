@@ -48,4 +48,3 @@ class ListadeProdutos:
 
 lista1 = ListadeProdutos()
 lista1.procurar_produto_nome('LoL')
-
