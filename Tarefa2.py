@@ -30,4 +30,3 @@ class BancoMongo:
 
 Base1 =BancoMongo.conectar_BD()
 Base1 =BancoMongo.procurar_produto(3)
-
